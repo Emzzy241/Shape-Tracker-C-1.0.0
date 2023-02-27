@@ -1,0 +1,5 @@
+C:\Users\St Tobiloba\Desktop\C#\Shape-Tracker-C#\obj\Debug\net6.0\ShapeTrack.csproj.AssemblyReference.cache
+C:\Users\St Tobiloba\Desktop\C#\Shape-Tracker-C#\obj\Debug\net6.0\ShapeTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\St Tobiloba\Desktop\C#\Shape-Tracker-C#\obj\Debug\net6.0\ShapeTrack.AssemblyInfoInputs.cache
+C:\Users\St Tobiloba\Desktop\C#\Shape-Tracker-C#\obj\Debug\net6.0\ShapeTrack.AssemblyInfo.cs
+C:\Users\St Tobiloba\Desktop\C#\Shape-Tracker-C#\obj\Debug\net6.0\ShapeTrack.csproj.CoreCompileInputs.cache
